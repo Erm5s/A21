@@ -1,0 +1,21 @@
+TUTO : Comment créer une application avec Visual Studio 2022 (A21)
+	
+1. Démarrer Visual Studio
+2. Créer un projet
+3. Application Windows Form (.NET Framework) C#
+4. Entrer le nom du projet et l'emplacement
+5. Coder !
+
+
+Fenêtres importantes de l'environnement IDE :
+- Boîte à outils
+- Fenêtre de conception
+- Explorateur de solution
+- Fenêtre de propriétés
+- Liste des tâches
+
+
+Informations sur les fichiers :
+- XXXXX.sln : solution
+- XXXXX.cs : code du développeur du formulaire XXXXX
+- XXXXX.Designer.cs : code lié au design du formulaire XXXXX
